@@ -1,0 +1,6 @@
+# Ignore compiled Java classes and build output
+*.class
+out/
+build/
+.idea/
+*.iml
