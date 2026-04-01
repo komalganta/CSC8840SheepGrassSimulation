@@ -12,7 +12,7 @@ This is my individual final project for CSC 8840. It extends the standard DEVSJA
 ## How to Run
 I developed and tested this project using IntelliJ IDEA, which is recommended for easiest setup. Here are the exact steps to get to the file and run it properly:
 
-1. Open the project folder in IntelliJ.
+1. Open the project folder in IntelliJ. Ensure all the folders from this repo are saved into one root folder for less chance for errors and better management, due to the high number of folders present in this project. For example, I have saved all these folders into one root folder called "CSC8840_src_Copy", and run the code from there.
 2. On the left side project panel, open the folders in this exact order: `Homework2025` -> `PredatorPrey` -> `KGanta`.
 3. Inside the `KGanta` folder, find the `SheepGrassCellSpace` file.
 4. Right-click on the `SheepGrassCellSpace` file and click **Run** to get the graphic output and start the simulation.
